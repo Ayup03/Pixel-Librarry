@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>HIMASI ADMIN - Dashboard</title>
+    <title>project - Dashboard</title>
 
     <!-- Custom fonts for this template-->
     <link href="/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -38,7 +38,7 @@
             <div id="content">
 
                 <!-- Topbar -->
-                    @include('layout/navbar')
+                @include('layout/navbar')
                 <!-- End of Topbar -->
 
                 <!-- Begin Page Content -->
@@ -48,15 +48,15 @@
                     <!-- Page Heading -->
 
                     <!-- Content Row -->
-    
+
                     <!-- Earnings (Monthly) Card Example -->
-                        
-                        <!-- Earnings (Monthly) Card Example -->
-                        
-                        <!-- Earnings (Monthly) Card Example -->
-                
-                        <!-- Pending Requests Card Example -->
-                        
+
+                    <!-- Earnings (Monthly) Card Example -->
+
+                    <!-- Earnings (Monthly) Card Example -->
+
+                    <!-- Pending Requests Card Example -->
+
                     <!-- Content Row -->
 
                     <!-- Content Row -->
